@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Romi Colombo
-- 👀 I’m interested in learn about programming, nutrition, healthy habbits.
 - 🌱 I’m currently learning programming
-- 📫 How to reach me Linkedin: Romina Paola Colombo // Instagram: rominacolombo_
+- 📫 How to reach me Linkedin: Romina Paola Colombo
 
 <!---
 RomiColombo/RomiColombo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
