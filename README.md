@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Romi Colombo
+- 👋 Hi, I’m Romina Colombo, FullStack developer - FrontEnd specialist
 - 🌱 I’m currently learning programming
 - 📫 How to reach me Linkedin: Romina Paola Colombo
 
