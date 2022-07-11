@@ -18,7 +18,7 @@ I am a Fullstack developer. I am currently working with React  ⚛ and Java but 
 
 ##### **Backend**
 ![Java](https://img.shields.io/badge/-JAVA-blue?style=for-the-badge&logo=Java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql&logoColor=orange)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 
 ##### **UX/UI Design**
