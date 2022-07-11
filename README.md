@@ -7,9 +7,9 @@ I am a Fullstack developer. I am currently working with React  ⚛ and Java but 
 
 ##### **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,13 +17,12 @@ I am a Fullstack developer. I am currently working with React  ⚛ and Java but 
 
 
 ##### **Backend**
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Java](https://img.shields.io/badge/-JAVA-blue?style=for-the-badge&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
 
-##### **Deployment**
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+##### **UX/UI Design**
+![Figma](https://img.shields.io/badge/-Figma-pink?style=for-the-badge&logo=Figma)
 
 ##### **Tools**
 
