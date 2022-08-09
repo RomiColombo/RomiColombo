@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Romina.
+### Hi there 👋 I'm Romi
 
 I am a Fullstack developer. I am currently working with React  ⚛ and Java but I am always looking for new opportunities to learn new stuff. I’m open to collaborate on projects and help people that are learning HTML, CSS, JS or JAVA.
 
